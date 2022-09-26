@@ -75,11 +75,11 @@ $res = mysqli_query($conn, "SELECT * FROM timbangan");
             </li>
 
             <!-- Nav Item - Login -->
-            <li class="nav-item">
+            <!-- <li class="nav-item">
                 <a class="nav-link" href="login.php">
                     <i class="fas fa-fw fa-sign"></i>
                     <span>Login</span></a>
-            </li>
+            </li> -->
 
             <!-- Divider -->
             <hr class="sidebar-divider d-none d-md-block">
